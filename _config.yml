@@ -1,7 +1,7 @@
 site: Wooyong Jung
 
 url: /yilmajung.github.io
-baseurl: https://github.com/yilmajung/
+baseurl: https://github.com/yilmajung/yilmajung.github.com/
 
 collections:
   pages:
