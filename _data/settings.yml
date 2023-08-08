@@ -15,9 +15,9 @@ menu_settings:
     - title: 'Projects'
       url: '/projects/'
     - title: 'About'
-      url: '/about/'
+      url: '/_pages/about.md'
     - title: 'Contact'
-      url: '/contact/'
+      url: '/_pages/contact.md'
 
 grid_settings:
   grid_spacing: 10
