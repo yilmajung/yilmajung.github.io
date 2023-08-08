@@ -2,16 +2,15 @@
 title: About Me
 subtitle: 
 description:
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/profile_img.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
 
-Hello, and welcome to my blog! I'm currently a third-year Ph.D. student in [Informatics at PennState](https://ist.psu.edu/) and working as a  Graduate Research Assistant at the [PIKE research group](https://pike.psu.edu/) under [Dr. Dongwon Lee](https://pike.psu.edu/dongwon/)’s guidance. However, my academic journey has taken a winding and fascinating path that I want to share with you. 
+Hello, and welcome to my blog! I'm currently a third-year Ph.D. student in [Informatics at PennState](https://ist.psu.edu/) and working as a  Graduate Research Assistant at the [PIKE](https://pike.psu.edu/) research group under [Dr. Dongwon Lee](https://pike.psu.edu/dongwon/)’s guidance. My academic journey has taken a winding and fascinating path that I want to share with you. 
 
 I began my academic career with a social science focus, obtaining a bachelor's degree in Development Studies. I found myself drawn to the complex challenges and multifaceted solutions related to global development. This interest only grew during my subsequent Master's studies in Public Policy and Applied Statistics, where I dove deep into nuanced policy intricacies and the statistical methods required to understand them.
 
-Before embarking on my Ph.D. journey, I worked as a research associate at the Korea Development Institute (KDI) for almost five years. There, my primary responsibility was analyzing socio-economic data of developing countries to provide critical insights for policy consultations. However, this work was often hampered by a recurring obstacle: the lack of appropriate and comprehensive datasets for developing nations. These limitations often left us with unsolved research queries and unanswered questions.
+Before embarking on my Ph.D. journey, I worked as a research associate at the [Korea Development Institute (KDI)](https://www.kdi.re.kr) for about five years. There, my primary responsibility was analyzing socio-economic data of developing countries to provide critical insights for policy consultations. However, this work was often hampered by a recurring obstacle: the lack of appropriate and comprehensive datasets for developing nations. These limitations often left us with unsolved research queries and unanswered questions.
 
 My interest in Informatics (or Data Science) was sparked by an enlightening article by Joshua Blumenstock titled [“Fighting Poverty with Data”](https://www.science.org/doi/10.1126/science.aah5217). This article detailed the immense potential of Artificial Intelligence (AI) in the global development sector, and its ability to shape the future of our studies. The promise of using AI to overcome the data limitations that had previously hindered my work was electrifying. I felt drawn to dive deeper into information science, hoping to wield this powerful tool to aid policymakers in making data-driven, evidence-based decisions.
 
