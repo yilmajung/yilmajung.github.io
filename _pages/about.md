@@ -2,7 +2,7 @@
 title: About Me
 subtitle: 
 description:
-featured_image: /images/profile_img.jpg
+featured_image: /images/profile_img.png
 ---
 
 
