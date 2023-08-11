@@ -6,7 +6,7 @@ featured_image: /images/profile_img.png
 ---
 
 
-Hello, and welcome to my blog! I'm currently a third-year Ph.D. student in [Informatics at PennState](https://ist.psu.edu/) and working as a graduate research assistant at the [PIKE](https://pike.psu.edu/) research group under [Dr. Dongwon Lee](https://pike.psu.edu/dongwon/)’s guidance. My academic journey has taken a winding and fascinating path that I want to share with you. 
+Hello, and welcome to my blog! I'm currently a third-year Ph.D. student in [Informatics at PennState](https://ist.psu.edu/) and working as a graduate research assistant at the [PIKE](https://pike.psu.edu/) research group under [Dr. Dongwon Lee](https://pike.psu.edu/dongwon/)’s guidance. My academic journey has taken a winding and fascinating path, and I want to share some pieces of it with you.
 
 I began my academic career with a social science focus, obtaining a bachelor's degree in Development Studies. I found myself drawn to the complex challenges and multifaceted solutions related to global development. This interest only grew during my subsequent Master's studies in Public Policy and Applied Statistics, where I dove deep into nuanced policy intricacies and the statistical methods required to understand them.
 
