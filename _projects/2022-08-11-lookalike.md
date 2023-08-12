@@ -5,9 +5,10 @@ date: 2022-08-11 00:00:00
 featured_image: '/images/project/yulia-matvienko-kgz9vsP5JCU-unsplash.jpg'
 ---
 
-![](/images/project/yulia-matvienko-kgz9vsP5JCU-unsplash.jpg)
+![](/images/project/yulia-matvienko-kgz9vsP5JCU-unsplash.jpg){:width="80%"}
+*Source: Unsplash*
 
-I designed and conducted this standalone project during my internship at the Washington Post (Summer 2022). 
+I designed and conducted this standalone project during my internship at **The Washington Post** (Summer 2022). 
 
 ## Background
 
