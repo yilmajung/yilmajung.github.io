@@ -5,7 +5,7 @@ date: 2022-08-11 00:00:00
 featured_image: '/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg'
 ---
 
-![](/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg){:width="60%"}
+![](/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg){:width="80%"}
 <font size="2">Image Source: Amir-abbas Abdolali, Unsplash</font>
 
 This standalone project was undertaken during my summer 2022 internship at **The Washington Post**. The primary objective of the study was to identify potential audiences with a higher propensity to engage with specific advertisements using lookalike modeling techniques
@@ -26,7 +26,7 @@ Within the scope of this research, I devised a lookalike modeling approach with 
 2. To enhance the precision in identifying potential audiences from the unlabeled group, who are more likely to engage with a specific advertisement.
 3. To augment the advertisers' audience reach, thereby amplifying the breadth of their campaigns.
 
-**A foundational premise of lookalike modeling is the belief that potential audiences, likely receptive to advertisements, exhibit traits mirroring those of existing users who have already engaged with the advertisement.**
+> A foundational premise of lookalike modeling is the belief that potential audiences, likely receptive to advertisements, exhibit traits mirroring those of existing users who have already engaged with the advertisement.
 
 
 ### Lookalike Modeling
