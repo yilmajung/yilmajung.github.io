@@ -1,7 +1,7 @@
 ---
 title: 'Will "they" also click on the same ad?'
 date: 2022-08-11 00:00:00
-featured_image: '/images/front_page_img.png'
+featured_image: '/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg'
 excerpt: This research was undertaken during my summer 2022 internship at The Washington Post. The primary objective of the study was to identify potential audiences with a higher propensity to engage with specific advertisements using look-alike modeling techniques.
 ---
 
