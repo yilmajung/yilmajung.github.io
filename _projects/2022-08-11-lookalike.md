@@ -2,11 +2,11 @@
 title: 'Will "they" also click on the same ad?'
 subtitle: 'Detecting potential audiences using a lookalike modeling'
 date: 2022-08-11 00:00:00
-featured_image: '/images/front_page_img.png'
+featured_image: '/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg'
 ---
 
 ![](/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg){:width="60%"}
-<font size="1">*Image Source: Amir-abbas Abdolali, Unsplash*</font>
+<font size="2">Image Source: Amir-abbas Abdolali, Unsplash</font>
 
 This standalone project was undertaken during my summer 2022 internship at **The Washington Post**. The primary objective of the study was to identify potential audiences with a higher propensity to engage with specific advertisements using lookalike modeling techniques
 
@@ -71,14 +71,14 @@ The first seven days of the whole advertising period were used for training and 
 
 #### ___Spy Sampling (Liu et al. 2002)___
 
-Input: Positive Sample Set *P*, unlabeled Sample Set *U*
+Input: Positive Sample Set *P*, unlabeled Sample Set $U$
 
-Output: Negative Sample Set *N* with size *k*
+Output: Negative Sample Set *N* with size $k$
 
-1. Randomly select a subset from *P* as the spy set *P'*;
-2. Train a classifier *M* based on *P-P'* and *U+P'*;
-3. Select a subset *N* of *k* samples from *U* with least prediction scores;
-4. Return *N*;
+1. Randomly select a subset from $P$ as the spy set $P'$;
+2. Train a classifier $M$ based on $P-P'$ and $U+P'$;
+3. Select a subset $N$ of $k$ samples from $U$ with least prediction scores;
+4. Return $N$;
 
 The key idea of the Spy sampling is that the spies behave identically to the unknown positive users in *U*.
 
@@ -90,12 +90,12 @@ Output: Negative Sample Set *N* with size *k*
 1. for $t \leq T$ do  
     Bootstrap a subset $U'$ from $U$;  
     Train a classifier $M$ on $P$ and $U'$;  
-    Predict U-U' using classifier M;  
+    Predict $U-U'$ using classifier $M$;  
     Record the classifying scores;
 
 2. Average the classifying scores of all iterations;  
-3. Select a subset N of k samples with least average scores;  
-4. Return N;  
+3. Select a subset $N$ of $k$ samples with least average scores;  
+4. Return $N$;  
 
 
 In addition, since the dataset has very small number of positive cases (less than 0.01\%), SMOTE and SMOTE+RUS methods were applied to the training set.
