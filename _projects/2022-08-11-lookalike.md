@@ -6,7 +6,7 @@ featured_image: '/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg'
 ---
 
 ![](/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg){:width="80%"}
-<font size="2">Image Source: Amir-abbas Abdolali, Unsplash</font>
+<p stype="text-align: center;"><font size="2">Image Source: Amir-abbas Abdolali, Unsplash</font></p>
 
 This standalone project was undertaken during my summer 2022 internship at **The Washington Post**. The primary objective of the study was to identify potential audiences with a higher propensity to engage with specific advertisements using lookalike modeling techniques
 
