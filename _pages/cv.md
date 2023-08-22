@@ -1,7 +1,5 @@
 ---
-layout: page
 title: CV
-permalink: /cv/
 featured_image: /images/front_page_img.png
 ---
 
