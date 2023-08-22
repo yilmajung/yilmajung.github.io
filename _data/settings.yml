@@ -10,12 +10,14 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'About'
-      url: '/about'
+    - title: 'Latest'
+      url: '/'
     - title: 'Projects'
-      url: '/projects/'
+      url: '/projects'
     - title: 'About'
       url: '/about'
+    - title: 'CV'
+      url: '/uploads/CV_WooyongJung_2308.pdf'
     - title: 'Contact'
       url: '/contact'
 
