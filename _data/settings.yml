@@ -17,7 +17,7 @@ menu_settings:
     - title: 'About'
       url: '/about'
     - title: 'CV'
-      url: '/CV'
+      url: '/cv_202308'
     - title: 'Contact'
       url: '/contact'
 
