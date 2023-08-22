@@ -1,15 +1,11 @@
 ---
-title: 'Will "They" also click on the same ad?'
+title: 'Will "they" also click on the same ad?'
 subtitle: 'Detecting potential ad-audiences using a lookalike modeling'
 date: 2022-08-11 00:00:00
 featured_image: '/images/project/yulia-matvienko-kgz9vsP5JCU-unsplash.jpg'
+excerpt: This project is conducted during my internship at **The Washington Post** (Summer 2022).
 ---
 
-![](/images/project/yulia-matvienko-kgz9vsP5JCU-unsplash.jpg){:width="60%"}
-
-*IMG Source: Yulia Matvienko, Unsplash*
-
-I designed and conducted this standalone project during my internship at **The Washington Post** (Summer 2022).
 
 ### Project Background & Purpose
 
