@@ -1,5 +1,5 @@
 ---
-title: 'Will "they" also click on the same ad?'
+title: 'Will "they" also click on the same advertisement?'
 subtitle: 'Detecting potential audiences using a lookalike modeling'
 date: 2022-08-11 00:00:00
 featured_image: '/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg'
