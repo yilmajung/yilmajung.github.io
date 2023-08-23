@@ -1,5 +1,5 @@
 ---
-title: 
+title: Curriculum Vitae
 featured_image: /images/front_page_img.png
 ---
 
