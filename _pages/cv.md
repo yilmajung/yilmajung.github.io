@@ -3,6 +3,7 @@ title: CV
 featured_image: /images/front_page_img.png
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/assets/CV_WooyongJung_2308.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/CV_WooyongJung_2308.pdf" style="width:1000px; height:1000px;" type="application/pdf"></object>
+
 
 [Download PDF version](assets/CV_WooyongJung_2308.pdf) (updated 08/2023)
