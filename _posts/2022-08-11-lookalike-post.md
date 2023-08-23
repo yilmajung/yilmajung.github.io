@@ -5,7 +5,7 @@ featured_image: '/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg'
 excerpt: This research was undertaken during my summer 2022 internship at The Washington Post. The primary objective of the study was to identify potential audiences with a higher propensity to engage with specific advertisements using look-alike modeling techniques.
 ---
 
-![](/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg){:width="80%"}
+![](/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg){:width="60%"}
 <p style="text-align: center;"><font size="2">Image Source: Amir-abbas Abdolali, Unsplash</font></p>
 
 
@@ -47,7 +47,7 @@ While the process may seem straightforward on the surface, two central challenge
 
 
 ### Research Framework
-![](/images/project/lookalike/research_framework.png){:width="70%"}
+![](/images/project/lookalike/research_framework.png)
 
 
 - Stage 1: Identify seed audiences from the news platform user data (The seed audiences are ad-receptive users who have once clicked on a specific ad)
@@ -59,7 +59,7 @@ While the process may seem straightforward on the surface, two central challenge
 ### Data
 To make the experiment simple, I used a specific advertisement which has been clicked 294 times out of 30,463 impressions. Therefore, there are 294 positive cases ($S$) and 30,463 unlabeled cases ($U-S$). After collecting the ad-related dataset such as the number of articles read by topic, clicking propensity, advertisement size and position, the number of line item, the number of impressions on a specific user, user device info, and user demographic info, I categorized them into three levels: article-level, ad-level, and user-level. The time period covered by the dataset is as below.
 
-![](/images/project/lookalike/timegap.png){:width="70%"}
+![](/images/project/lookalike/timegap.png)
 
 The first seven days of the whole advertising period were used for training and testing the look-alike modeling, and the remaining period was used for monitoring and evaluation.
 
@@ -109,13 +109,13 @@ In addition, since the dataset has very small number of positive cases (less tha
 
 ### Results & Evaluation
 
-![](/images/project/lookalike/results.png){:width="70%"}
+![](/images/project/lookalike/results.png){:width="65%"}
 
 The models based on bootstrap sampling show a better performance on test set than the models with spy sampling.
 
 During the monitoring and evaluation period, users identified by the Spy+AdaBoost (AB) and Spy+Logistic Regression (LR) models exhibited a higher propensity to click on the advertisements compared to users selected at random.
 
-![](/images/project/lookalike/eval_fig.png){:width="70%"}
+![](/images/project/lookalike/eval_fig.png)
 
 
 - Users ranked by the Bootstrap+LR and Bootstrap+AB models demonstrated a clicking tendency that was either marginally higher or nearly equivalent to that of users chosen randomly.
@@ -124,7 +124,7 @@ During the monitoring and evaluation period, users identified by the Spy+AdaBoos
 
 Also, as shown in the figure below, the Spy+AB and Spy+LR models identified users who clicked on the advertisement more rapidly than other models.
 
-![](/images/project/lookalike/eval_fig2.png){:width="70%"}
+![](/images/project/lookalike/eval_fig2.png)
 
 - As the number of top N look-alike users increases, the disparity between the models widens. However, this gap eventually narrows and converges upon reaching the peak count of positive cases.
 
@@ -132,6 +132,8 @@ Also, as shown in the figure below, the Spy+AB and Spy+LR models identified user
 ### Limitations & Challenges
 
 - Ad-Specificity: The models we developed are tailored to a particular advertisement. As such, the efficacy of these models can vary considerably based on the selected advertisement.
+
+- As the number of top N look-alike users increases, the disparity between the models widens. However, this gap eventually narrows and converges upon reaching the peak count of positive cases.
 
 - Information Loss: The user data incorporated into our models is sourced from multiple datasets. This integration led to a substantial loss of information due to missing values associated with numerous users.
 
