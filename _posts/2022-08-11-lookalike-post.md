@@ -70,8 +70,8 @@ The first seven days of the whole advertising period were used for training and 
 
 #### ___Spy Sampling (Liu et al. 2002)___
 
-Input: Positive Sample Set *P*, unlabeled Sample Set $U$  
-Output: Negative Sample Set *N* with size $k$
+Input: Positive Sample Set $P$, unlabeled Sample Set $U$  
+Output: Negative Sample Set $N$ with size $k$
 
 
 1. Randomly select a subset from $P$ as the spy set $P'$;
@@ -79,12 +79,12 @@ Output: Negative Sample Set *N* with size $k$
 3. Select a subset $N$ of $k$ samples from $U$ with least prediction scores;
 4. Return $N$;
 
-The key idea of the Spy sampling is that the spies behave identically to the unknown positive users in *U*.
+The key idea of the Spy sampling is that the spies behave identically to the unknown positive users in $U$.
 
 
 #### ___Bootstrap (Boosting) Sampling (Mordelet and Vert 2014, Zhao et al. 2022)___
-Input: Positive Sample Set *P*, unlabeled Sample Set *U*  
-Output: Negative Sample Set *N* with size *k*
+Input: Positive Sample Set $P$, unlabeled Sample Set $U$  
+Output: Negative Sample Set $N$ with size $k$
 
 
 1. for $t \leq T$ do  
