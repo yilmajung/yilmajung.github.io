@@ -3,7 +3,6 @@ title: 'Do look-alike news audiences click on the same advertisement?'
 subtitle: 'Detecting potential audiences using a lookalike modeling'
 date: 2022-08-11 00:00:00
 featured_image: '/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg'
-usemathjax: true
 ---
 
 ![](/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg){:width="60%"}
