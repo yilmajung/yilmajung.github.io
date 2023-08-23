@@ -38,11 +38,11 @@ Lookalike modeling is commonly used to identify new potential users and expand a
 
 In this project, I adopted a model-based approach, specifically Positive-Unlabeled (PU) learning, which proceeds as follows:
 
-Given a training set containing only positives ($P$) and unknown ($U$) classes:
+Given a training set containing only positives ($$P$$) and unknown ($$U$$) classes:
 
-1. Treating all $U$ as negatives ($N$), train a classifier $P$ vs. $U$
-2. Using the classifier, score the unknown class and isolate the set of ‘reliable’ negatives ($RN$)
-3. Train a new classifier on $P$ vs. $RN$, use it to score the remaining U, isolate additional $RN$ and enlarge $RN$
+1. Treating all $$U$$ as negatives ($$N$$), train a classifier $$P$$ vs. $$U$$
+2. Using the classifier, score the unknown class and isolate the set of ‘reliable’ negatives ($$RN$$)
+3. Train a new classifier on $$P$$ vs. $$RN$$, use it to score the remaining U, isolate additional $$RN$$ and enlarge $$RN$$
 4. Repeat Step 3 until no new negative cases are classified
 
 
