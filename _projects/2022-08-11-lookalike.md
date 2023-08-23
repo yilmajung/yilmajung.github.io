@@ -30,7 +30,7 @@ Within the scope of this research, I devised a lookalike modeling approach with 
 
 
 ### Lookalike Modeling
-Lookalike modeling is commonly used to identify new potential users and expand audience base. The basic idea is pretty simple: given a seed set $S$ from a universal set $U$, find groups of audiences from $U-S$ who look and act like the audiences in $S$. Lookalike modeling can be addressed from the three different methodological approaches: rule-based, similarity-based, and model-based.  
+Lookalike modeling is commonly used to identify new potential users and expand audience base. The basic idea is pretty simple: given a seed set $$S$$ from a universal set $$U$$, find groups of audiences from $$U-S$$ who look and act like the audiences in $$S$$. Lookalike modeling can be addressed from the three different methodological approaches: rule-based, similarity-based, and model-based.  
 
 ![](/images/project/journal_wj_images.png){:width="70%"}
 
@@ -59,7 +59,7 @@ While the process may seem straightforward on the surface, two central challenge
 
 
 ### Data
-To make the experiment simple, I used a specific advertisement which has been clicked 294 times out of 30,463 impressions. Therefore, there are 294 positive cases ($S$) and 30,463 unlabeled cases ($U-S$). After collecting the ad-related dataset such as the number of articles read by topic, clicking propensity, advertisement size and position, the number of line item, the number of impressions on a specific user, user device info, and user demographic info, I categorized them into three levels: article-level, ad-level, and user-level. The time period covered by the dataset is as below.
+To make the experiment simple, I used a specific advertisement which has been clicked 294 times out of 30,463 impressions. Therefore, there are 294 positive cases ($$S$$) and 30,463 unlabeled cases ($$U-S$$). After collecting the ad-related dataset such as the number of articles read by topic, clicking propensity, advertisement size and position, the number of line item, the number of impressions on a specific user, user device info, and user demographic info, I categorized them into three levels: article-level, ad-level, and user-level. The time period covered by the dataset is as below.
 
 ![](/images/project/lookalike/timegap.png)
 
@@ -72,32 +72,32 @@ The first seven days of the whole advertising period were used for training and 
 
 #### ___Spy Sampling (Liu et al. 2002)___
 
-Input: Positive Sample Set $P$, unlabeled Sample Set $U$  
-Output: Negative Sample Set $N$ with size $k$
+Input: Positive Sample Set $$P$$, unlabeled Sample Set $$U$$  
+Output: Negative Sample Set $$N$$ with size $$k$$
 
 
-1. Randomly select a subset from $P$ as the spy set $P'$;
-2. Train a classifier $M$ based on $P-P'$ and $U+P'$;
-3. Select a subset $N$ of $k$ samples from $U$ with least prediction scores;
-4. Return $N$;
+1. Randomly select a subset from $$P$$ as the spy set $$P'$$;
+2. Train a classifier $$M$$ based on $$P-P'$$ and $$U+P'$$;
+3. Select a subset $$N$$ of $$k$$ samples from $$U$$ with least prediction scores;
+4. Return $$N$$;
 
-The key idea of the Spy sampling is that the spies behave identically to the unknown positive users in $U$.
+The key idea of the Spy sampling is that the spies behave identically to the unknown positive users in $$U$$.
 
 
 #### ___Bootstrap (Boosting) Sampling (Mordelet and Vert 2014, Zhao et al. 2022)___
-Input: Positive Sample Set $P$, unlabeled Sample Set $U$  
-Output: Negative Sample Set $N$ with size $k$
+Input: Positive Sample Set $$P$$, unlabeled Sample Set $$U$$  
+Output: Negative Sample Set $$N$$ with size $$k$$
 
 
-1. for $t \leq T$ do  
-    Bootstrap a subset $U'$ from $U$;  
-    Train a classifier $M$ on $P$ and $U'$;  
-    Predict $U-U'$ using classifier $M$;  
+1. for $$t \leq T$$ do  
+    Bootstrap a subset $$U'$$ from $$U$$;  
+    Train a classifier $$M$$ on $$P$$ and $$U'$$;  
+    Predict $$U-U'$$ using classifier $$M$$;  
     Record the classifying scores;
 
 2. Average the classifying scores of all iterations;  
-3. Select a subset $N$ of $k$ samples with least average scores;  
-4. Return $N$;  
+3. Select a subset $$N$$ of $$k$$ samples with least average scores;  
+4. Return $$N$$;  
 
 
 In addition, since the dataset has very small number of positive cases (less than 0.01\%), SMOTE and SMOTE+RUS methods were applied to the training set.
