@@ -26,7 +26,7 @@ Within the scope of this research, I devised a lookalike modeling approach with 
 2. To enhance the precision in identifying potential audiences from the unlabeled group, who are more likely to engage with a specific advertisement.
 3. To augment the advertisers' audience reach, thereby amplifying the breadth of their campaigns.
 
-> A foundational premise of lookalike modeling is the belief that potential audiences, likely receptive to advertisements, exhibit traits mirroring those of existing users who have already engaged with the advertisement.
+***A foundational premise of lookalike modeling is the belief that potential audiences, likely receptive to advertisements, exhibit traits mirroring those of existing users who have already engaged with the advertisement.***
 
 
 ### Lookalike Modeling
