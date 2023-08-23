@@ -32,7 +32,7 @@ Within the scope of this research, I devised a lookalike modeling approach with 
 ### Lookalike Modeling
 Lookalike modeling is commonly used to identify new potential users and expand audience base. The basic idea is pretty simple: given a seed set $S$ from a universal set $U$, find groups of audiences from $U-S$ who look and act like the audiences in $S$. Lookalike modeling can be addressed from the three different methodological approaches: rule-based, similarity-based, and model-based.  
 
-![](/images/project/journal_wj_images.png)
+![](/images/project/journal_wj_images.png){:width="70%"}
 
 
 In this project, I adopted a model-based approach, specifically Positive-Unlabeled (PU) learning, which proceeds as follows:
@@ -111,7 +111,7 @@ In addition, since the dataset has very small number of positive cases (less tha
 
 ### Results & Evaluation
 
-![](/images/project/lookalike/results.png)
+![](/images/project/lookalike/results.png){:width="65%"}
 
 The models based on bootstrap sampling show a better performance on test set than the models with spy sampling.
 
