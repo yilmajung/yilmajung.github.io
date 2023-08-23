@@ -6,7 +6,7 @@ excerpt: This research was undertaken during my summer 2022 internship at The Wa
 ---
 
 ![](/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg){:width="80%"}
-<p stype="text-align: center;"><font size="2">Image Source: Amir-abbas Abdolali, Unsplash</font></p>
+<p style="text-align: center;"><font size="2">Image Source: Amir-abbas Abdolali, Unsplash</font></p>
 
 
 ### Project Background & Purpose

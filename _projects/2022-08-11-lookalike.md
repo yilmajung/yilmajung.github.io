@@ -6,7 +6,7 @@ featured_image: '/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg'
 ---
 
 ![](/images/project/amir-abbas-abdolali-_Tm4622z4Dg-unsplash.jpg){:width="80%"}
-<p stype="text-align: center;"><font size="2">Image Source: Amir-abbas Abdolali, Unsplash</font></p>
+<p style="text-align: center;"><font size="2">Image Source: Amir-abbas Abdolali, Unsplash</font></p>
 
 This standalone project was undertaken during my summer 2022 internship at **The Washington Post**. The primary objective of the study was to identify potential audiences with a higher propensity to engage with specific advertisements using lookalike modeling techniques
 
@@ -30,7 +30,7 @@ Within the scope of this research, I devised a lookalike modeling approach with 
 
 
 ### Lookalike Modeling
-Lookalike modeling is commonly used to identify new potential users and expand audience base. The basic idea is pretty simple: given a seed set $S$ from a universal set $U$, find groups of audiences from $U-S$ who look and act like the audiences in $S$. Lookalike modeling can be addressed from the three different methodological approaches: rule-based, similarity-based, and model-based.
+Lookalike modeling is commonly used to identify new potential users and expand audience base. The basic idea is pretty simple: given a seed set $S$ from a universal set $U$, find groups of audiences from $U-S$ who look and act like the audiences in $S$. Lookalike modeling can be addressed from the three different methodological approaches: rule-based, similarity-based, and model-based.  
 
 ![](/images/project/journal_wj_images.png){:width="70%"}
 
