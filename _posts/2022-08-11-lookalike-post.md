@@ -133,8 +133,6 @@ Also, as shown in the figure below, the Spy+AB and Spy+LR models identified user
 
 - Ad-Specificity: The models we developed are tailored to a particular advertisement. As such, the efficacy of these models can vary considerably based on the selected advertisement.
 
-- As the number of top N look-alike users increases, the disparity between the models widens. However, this gap eventually narrows and converges upon reaching the peak count of positive cases.
-
 - Information Loss: The user data incorporated into our models is sourced from multiple datasets. This integration led to a substantial loss of information due to missing values associated with numerous users.
 
 - Limited Positive Cases: The aforementioned information loss resulted in a dataset with a stark scarcity of positive cases. For our training purposes, we only had access to 294 such cases, resulting in a pronounced data imbalance.
