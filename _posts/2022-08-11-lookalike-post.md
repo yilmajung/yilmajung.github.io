@@ -16,7 +16,7 @@ Digital news platforms function as intermediaries, bridging the gap between adve
 - Advertisers: Their primary goal is to present their advertisements to users deemed valuable for their respective marketing strategies.
 - News platform: This entity acts as the service provider. 
 
-While the news platform captures users' clickstream data, detailing which advertisements have been engaged with, predicting future engagement remains challenging. This issue extends beyond merely determining whether a user will click on an advertisement; it evolves into a nuanced "click or unlabeled" problem. This is because the absence of a click (negative instances) doesn't conclusively signify disinterest. In reality, such instances could represent either genuine disinterest or potential interest.
+While the news platform captures audiences' clickstream data, detailing which advertisements have been engaged with, predicting future engagement remains challenging. This issue extends beyond merely determining whether an audience will click on an advertisement; it evolves into a nuanced "click or unlabeled" problem. This is because the absence of a click (negative instances) doesn't conclusively signify disinterest. In reality, such instances could represent either genuine disinterest or potential interest.
 
 Within the scope of this research, I devised a lookalike modeling approach with three primary objectives:
 
