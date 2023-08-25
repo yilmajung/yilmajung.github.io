@@ -84,7 +84,7 @@ Input: Positive Sample Set $$P$$, unlabeled Sample Set $$U$$
 Output: Negative Sample Set $$N$$ with size $$k$$
 
 
-1. for $$t \leq T$$ do  
+1. For $$t \leq T$$ do  
     Bootstrap a subset $$U'$$ from $$U$$;  
     Train a classifier $$M$$ on $$P$$ and $$U'$$;  
     Predict $$U-U'$$ using classifier $$M$$;  
