@@ -49,11 +49,8 @@ While the process may seem straightforward on the surface, two central challenge
 ### Research Framework
 ![](/images/project/lookalike/research_framework.png)
 
-
 - Stage 1: Identify seed audiences from the news platform user data (The seed audiences are ad-receptive users who have once clicked on a specific ad)
-
 - Stage 2: Conduct look-alike modeling on the seed set and find potential audiences
-
 
 
 ### Data
@@ -92,7 +89,6 @@ Output: Negative Sample Set $$N$$ with size $$k$$
     Train a classifier $$M$$ on $$P$$ and $$U'$$;  
     Predict $$U-U'$$ using classifier $$M$$;  
     Record the classifying scores;
-
 2. Average the classifying scores of all iterations;  
 3. Select a subset $$N$$ of $$k$$ samples with least average scores;  
 4. Return $$N$$;
@@ -100,9 +96,7 @@ Output: Negative Sample Set $$N$$ with size $$k$$
 
 In addition, since the dataset has very small number of positive cases (less than 0.01\%), SMOTE and SMOTE+RUS methods were applied to the training set.
 
-
 - SMOTE (Synthetic Minority Oversampling Technique): upsampled minority (positive) to make the ratio of positive to unlabeled cases 1 to 1 (Chawla et al. 2002)
-
 - SMOTE + RUS (Random Under Sampler): combined SMOTE with random undersampling of the majority to make the ratio 1 (positive) to 2 (unlabeled). This combined technique is also suggested in Chawla et al (2002). Also check [this online article](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/) for more detailed use cases of both methods.
 
 
@@ -117,9 +111,7 @@ During the monitoring and evaluation period, users identified by the Spy+AdaBoos
 
 ![](/images/project/lookalike/eval_fig.png)
 
-
 - Users ranked by the Bootstrap+LR and Bootstrap+AB models demonstrated a clicking tendency that was either marginally higher or nearly equivalent to that of users chosen randomly.
-
 - Although the Spy+LR and Spy+AB look-alike models underperformed on the test set relative to the bootstrap sampling models, they yielded a more precise list of users.
 
 Also, as shown in the figure below, the Spy+AB and Spy+LR models identified users who clicked on the advertisement more rapidly than other models.
@@ -132,9 +124,6 @@ Also, as shown in the figure below, the Spy+AB and Spy+LR models identified user
 ### Limitations & Challenges
 
 - Ad-Specificity: The models we developed are tailored to a particular advertisement. As such, the efficacy of these models can vary considerably based on the selected advertisement.
-
 - Information Loss: The user data incorporated into our models is sourced from multiple datasets. This integration led to a substantial loss of information due to missing values associated with numerous users.
-
 - Limited Positive Cases: The aforementioned information loss resulted in a dataset with a stark scarcity of positive cases. For our training purposes, we only had access to 294 such cases, resulting in a pronounced data imbalance.
-
 - Memory Constraints: The consolidated dataset originally comprised millions of observations (impressions) and spanned thousands of features. Consequently, this demanded significant memory capacity and extended periods for both data collection and model training.
