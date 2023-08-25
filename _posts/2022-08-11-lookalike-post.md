@@ -123,7 +123,7 @@ Also, as shown in the figure below, the Spy+AB and Spy+LR models identified user
 
 ### Limitations & Challenges
 
-- Ad-Specificity: The models we developed are tailored to a particular advertisement. As such, the efficacy of these models can vary considerably based on the selected advertisement.
-- Information Loss: The user data incorporated into our models is sourced from multiple datasets. This integration led to a substantial loss of information due to missing values associated with numerous users.
-- Limited Positive Cases: The aforementioned information loss resulted in a dataset with a stark scarcity of positive cases. For our training purposes, we only had access to 294 such cases, resulting in a pronounced data imbalance.
-- Memory Constraints: The consolidated dataset originally comprised millions of observations (impressions) and spanned thousands of features. Consequently, this demanded significant memory capacity and extended periods for both data collection and model training.
+- **Ad-Specificity**: The models we developed are tailored to a particular advertisement. As such, the efficacy of these models can vary considerably based on the selected advertisement.
+- **Information Loss**: The user data incorporated into our models is sourced from multiple datasets. This integration led to a substantial loss of information due to missing values associated with numerous users.
+- **Limited Positive Cases**: The aforementioned information loss resulted in a dataset with a stark scarcity of positive cases. For our training purposes, we only had access to 294 such cases, resulting in a pronounced data imbalance.
+- **Memory Constraints**: The consolidated dataset originally comprised millions of observations (impressions) and spanned thousands of features. Consequently, this demanded significant memory capacity and extended periods for both data collection and model training.
