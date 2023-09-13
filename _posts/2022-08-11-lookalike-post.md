@@ -104,7 +104,6 @@ In addition, since the dataset has very small number of positive cases (less tha
 
 
 ### Results & Evaluation
-
 ![](/images/project/lookalike/results.png){:width="65%"}
 
 The models based on bootstrap sampling show a better performance on test set than the models with spy sampling.
