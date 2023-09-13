@@ -9,6 +9,8 @@ excerpt: This research was undertaken during my summer 2022 internship at The Wa
 <p style="text-align: center;"><font size="2">Photo by Amir-abbas Abdolali, Unsplash</font></p>
 
 
+This standalone project was undertaken during my summer 2022 internship at **The Washington Post**. The primary objective of the study was to identify potential audiences with a higher propensity to engage with specific advertisements using lookalike modeling techniques
+
 ### Project Background & Purpose
 
 Digital news platforms function as intermediaries, bridging the gap between advertisements and their target audiences to promote products or services. This interaction involves three pivotal stakeholders: 
