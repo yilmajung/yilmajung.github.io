@@ -57,6 +57,7 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/in/wooyongjung710/'
+  google-scholar_url: 'https://scholar.google.com/citations?user=Jmed7DYAAAAJ&hl=en'
 
 color_settings:
   background_color: '#ffffff'
