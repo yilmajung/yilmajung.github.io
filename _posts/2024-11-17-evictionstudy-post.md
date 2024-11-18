@@ -1,7 +1,7 @@
 ---
 title: 'Hotspots of Eviction: Guiding Dual-Track Policy Intervention with Spatial Analysis'
 date: 2024-11-17 00:00:00
-featured_image: '/images/project/iStock-1090916552.jpg'
+featured_image: '/images/project/spatial_analysis_cover.png'
 excerpt: This study explores the spatial dynamics behind eviction filing hotspots in Dallas County, Texas, and suggests dual-tracked policy intervention to address the issue effectively and efficiently. The research has been accepted for presentation at the IEEE International Conference on Big Data 2024 (BigData 2024).
 ---
 
