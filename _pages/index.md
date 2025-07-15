@@ -1,7 +1,9 @@
 ---
-title: About Me
+layout: default
+title:
 subtitle: 
 description:
+permalink:/
 featured_image: /images/profile_img.png
 ---
 
