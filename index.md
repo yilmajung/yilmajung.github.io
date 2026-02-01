@@ -5,9 +5,9 @@ description: Postdoctoral Scholar at UVA School of Data Science
 featured_image: /images/profile_img.png
 ---
 
-Hello, I’m Wooyong (우용). My name is pronounced “Woo-yong.” The first part, Woo, sounds like woo in *woo-hoo*, and the second part, Yong, sounds similar to *young* but with a clearer *yo* sound. Just say Woo-yong, two beats.
+Hello, welcome to my blog! I’m Wooyong (우용). My name is pronounced “Woo-yong.” The first part, Woo, sounds like woo in *woo-hoo*, and the second part, Yong, sounds similar to *young* but with a clearer *yo* sound. Just say Woo-yong, two beats.
 
-Welcome to my blog! I'm currently a postdoctoral scholar at the [UVA School of Data Science](https://datascience.virginia.edu/), collaborating with [Dr. YY Ahn](https://yyahn.com/about/) (UVA), [Dr. Byungkyu Lee](https://www.byungkyulee.com/) (NYU), and [Dr. June Jeon](https://scholar.google.com/citations?hl=en&user=URGxapsAAAAJ&view_op=list_works&sortby=pubdate) (KAIST).
+I'm currently a postdoctoral scholar at the [UVA School of Data Science](https://datascience.virginia.edu/), collaborating with [Dr. YY Ahn](https://yyahn.com/about/) (UVA), [Dr. Byungkyu Lee](https://www.byungkyulee.com/) (NYU), and [Dr. June Jeon](https://scholar.google.com/citations?hl=en&user=URGxapsAAAAJ&view_op=list_works&sortby=pubdate) (KAIST).
 
 ### Research Interests
 My research interests primarily lie in Computational Social Science, with a focus on harnessing the power of computational techniques, such as Machine Learning, Bayesian Inference, and Large Language Models (LLMs), to solve complex social challenges.
