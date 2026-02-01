@@ -1,55 +1,26 @@
 ---
-layout: default
-title: Wooyong Jung
-description: Ph.D. Candidate in Informatics @ PennState
-featured_image: /images/front_page_img.png
+layout: page
+title: About
+description: Postdoctoral Scholar at UVA School of Data Science
+featured_image: /images/profile_img.png
 ---
 
-<section class="blog single">
+Hello, and welcome to my blog! I'm currently a postdoctoral scholar at the UVA School of Data Science, collaborating with [Dr. YY Ahn](https://yyahn.com/about/), [Dr. Byungkyu Lee](https://www.byungkyulee.com/) (NYU), and [Dr. June Jeon](https://scholar.google.com/citations?hl=en&user=URGxapsAAAAJ&view_op=list_works&sortby=pubdate) (KAIST).
+I completed my Ph.D. degree in December 2025, under [Dr. Dongwon Lee](https://pike.psu.edu/dongwon/)'s guidance.
 
-	<div class="wrap">
 
-		{% for post in paginator.posts %}
+## Bio
 
-		<article class="blog-post">
+My academic journey has taken a winding and fascinating path, and I want to share some pieces of it with you.
 
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-				<p class="blog-post__subtitle">{{ post.date | date_to_long_string }}</p>
-			</div>
+I began my academic career with a social science focus, obtaining a bachelor's degree in [Development Studies at UC Berkeley](https://politicaleconomy.berkeley.edu/undergraduate-programs/the-political-economy-major/development-studies/). I found myself drawn to the complex challenges and multifaceted solutions related to global development and social transformation. This interest only grew during my subsequent Master's studies in Public Policy at [KDI School](https://www.kdischool.ac.kr/) and Applied Quantitative Research at [NYU](https://www.nyu.edu/), where I dove deep into policy intricacies and the statistical methods required to understand them.
 
-			{% if post.featured_image %}
-			<a href="{{ post.url | relative_url }}" class="blog-post__image" style="background-image: url({{ post.featured_image | relative_url }});"></a>
-			{% endif %}
+Before embarking on my Ph.D. journey, I worked as a research associate at the [Korea Development Institute (KDI)](https://www.kdi.re.kr) for about five years. There, my primary responsibility was analyzing socio-economic data of developing countries to provide critical insights for policy consultations. However, this work was often hampered by a recurring obstacle: the lack of appropriate and comprehensive datasets for developing nations. These limitations often left us with unsolved research queries and unanswered questions.
 
-			<div class="blog-post__content">
-				<p>{{ post.excerpt }}</p>
-				<p><a href="{{ post.url | relative_url }}" class="button">Read More</a>
-			</div>
+My interest in Informatics (or Data Science) was sparked by an enlightening article by Joshua Blumenstock titled ["Fighting Poverty with Data"](https://www.science.org/doi/10.1126/science.aah5217). This article detailed the immense potential of Artificial Intelligence (AI) in the global development sector, and its ability to shape the future of our studies. The promise of using AI to overcome the data limitations that had previously hindered my work was electrifying. I felt drawn to dive deeper into information science, hoping to wield this powerful tool to aid policymakers in making data-driven, evidence-based decisions.
 
-		</article>
+Today, my work is focused on applying computational methods to public policy. My research seeks to untangle complex social issues using the power of informatics, working at the intersection of technology, policy, and human behavior. Currently, I'm expanding the use of probabilistic machine learning to predict eviction hotspots and detect social boundaries in the US, exploring ways in which technology can contribute to creating more equitable and fair societies.
 
-		{% endfor %}
+In my past work, I've delved into understanding user behavior in cyberspace and tracking the changes in people's political orientation over time. These studies have further deepened my appreciation for the vast potential of Informatics in understanding and addressing the challenges we face in society.
 
-	</div>
-
-</section>
-
-{% if paginator.total_pages > 1 %}
-
-<section class="pagination">
-
-	{% if paginator.previous_page %}
-	<div class="pagination__prev">
-		<a href="{{ paginator.previous_page_path | relative_url }}" class="button button--large"><i class="fa fa-angle-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
-	</div>
-	{% endif %}
-	{% if paginator.next_page %}
-	<div class="pagination__next">
-		<a href="{{ paginator.next_page_path | relative_url }}" class="button button--large"><span>Older Posts</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-	</div>
-	{% endif %}
-
-</section>
-
-{% endif %}
+I am excited to use this blog as a platform to share my research, findings, and thoughts on the transformative power of informatics in the realm of social science and public policy. I hope my journey from social science to informatics inspires you as much as it continues to inspire me. Thanks for joining me on this journey, and stay tuned for more insights!
