@@ -5,14 +5,14 @@ description: Postdoctoral Scholar at UVA School of Data Science
 featured_image: /images/profile_img.png
 ---
 
-Hello, and welcome to my blog! I'm currently a postdoctoral scholar at the UVA School of Data Science, collaborating with [Dr. YY Ahn](https://yyahn.com/about/) (UVA), [Dr. Byungkyu Lee](https://www.byungkyulee.com/) (NYU), and [Dr. June Jeon](https://scholar.google.com/citations?hl=en&user=URGxapsAAAAJ&view_op=list_works&sortby=pubdate) (KAIST). I completed my Ph.D. degree in December 2025, under [Dr. Dongwon Lee](https://pike.psu.edu/dongwon/)'s guidance.
+Hello, and welcome to my blog! I'm currently a postdoctoral scholar at the [UVA School of Data Science](https://datascience.virginia.edu/), collaborating with [Dr. YY Ahn](https://yyahn.com/about/) (UVA), [Dr. Byungkyu Lee](https://www.byungkyulee.com/) (NYU), and [Dr. June Jeon](https://scholar.google.com/citations?hl=en&user=URGxapsAAAAJ&view_op=list_works&sortby=pubdate) (KAIST).
 
 ### Research Interests
 My research interests primarily lie in Computational Social Science, with a focus on harnessing the power of computational techniques, such as Machine Learning, Bayesian Inference, and Large Language Models (LLMs), to solve complex social challenges.
 
 ### News
 -  Jan 2026: Joined [YLab](https://yyahn.com/ylab/) as a postdoctoral scholar and began a new project, **LLMs & Belief** ☺️
--  Dec 2025: Received a Ph.D. in Informatics from Penn State 👨🏻‍🎓🎉
+-  Dec 2025: Completed a Ph.D. in Informatics at [Penn State College of IST](https://ist.psu.edu/) under [Dr. Dongwon Lee](https://pike.psu.edu/dongwon/)'s guidance. 👨🏻‍🎓🎉
 
 ### A Little Bit More About Myself
 
