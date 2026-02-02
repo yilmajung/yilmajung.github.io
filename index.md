@@ -13,7 +13,7 @@ I'm currently a postdoctoral scholar at the [UVA School of Data Science](https:/
 My research interests primarily lie in Computational Social Science, with a focus on harnessing the power of computational techniques, such as Machine Learning, Bayesian Inference, and Large Language Models (LLMs), to solve complex social challenges.
 
 ### News
-- Jan 2026: Joined [YLab](https://yyahn.com/ylab/) as a postdoctoral scholar and began a new project, **LLMs & Belief** ☺️
+- Jan 2026: Joined [Y Lab](https://yyahn.com/ylab/) as a postdoctoral scholar and began a new project, **LLMs & Belief** ☺️
 - Dec 2025: Completed a Ph.D. in Informatics at [Penn State College of IST](https://ist.psu.edu/) under [Dr. Dongwon Lee](https://pike.psu.edu/dongwon/)'s guidance. 👨🏻‍🎓🎉
 - Oct 2025: Presented a study titled “A New Lens on Homelessness: Daily Tent Monitoring with 311 Calls and Street Images” at [SBP-BRiMS](https://sbp-brims.org/2025/) at Carnegie Mellon University.
 
