@@ -11,6 +11,7 @@ Welcome to my blog! I’m **Wooyong** (우용), pronounced “Woo-yong.” I'm c
 My research interests primarily lie in Computational Social Science, with a focus on harnessing the power of computational techniques, such as Machine Learning, Bayesian Inference, and Large Language Models (LLMs), to solve complex social challenges.
 
 ### News
+- Feb 2026: A homelessless study paper was accepted to [EPJ Data Science](https://link.springer.com/journal/13688)!
 - Jan 2026: Joined [Y Lab](https://yyahn.com/ylab/) as a postdoctoral scholar and began a new project, **Belief & LLMs**
 - Dec 2025: Completed a Ph.D. in Informatics at [Penn State College of IST](https://ist.psu.edu/) under [Dr. Dongwon Lee](https://pike.psu.edu/dongwon/)'s guidance
 - Oct 2025: Presented a study titled “A New Lens on Homelessness: Daily Tent Monitoring with 311 Calls and Street Images” at [SBP-BRiMS 2025](https://sbp-brims.org/2025/) at Carnegie Mellon University
