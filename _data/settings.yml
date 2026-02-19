@@ -56,6 +56,7 @@ social_settings:
   bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/in/wooyongjung710/'
   googlescholar_url: 'https://scholar.google.com/citations?user=Jmed7DYAAAAJ&hl=en'
+  bluesky_url: 'https://bsky.app/profile/wooyong-jung.bsky.social'
 
 color_settings:
   background_color: '#ffffff'
