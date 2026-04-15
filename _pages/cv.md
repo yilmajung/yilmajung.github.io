@@ -59,13 +59,13 @@ featured_image: /images/front_page_img.png
 .cv .pub-list li .venue { font-style: italic; color: #555; }
 .cv .header-block { margin-bottom: 8px; }
 .cv .header-block .line { color: #555; font-size: 0.95em; margin: 2px 0; }
-.cv .skills-list { list-style: none; padding: 0; margin: 10px 0 0 0; }
+.cv .skills-list { list-style: none; padding: 0 !important; margin: 10px 0 0 0; font-size: 0.93em; }
 .cv .skills-list li {
   display: flex;
   gap: 16px;
   align-items: baseline;
   margin: 8px 0;
-  font-size: 0.93em;
+  font-size: inherit !important;
   color: #333;
 }
 .cv .skills-list li .label {
