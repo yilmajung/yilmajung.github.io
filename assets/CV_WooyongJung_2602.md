@@ -1,9 +1,6 @@
----
-title: Curriculum Vitae
-featured_image: /images/front_page_img.png
----
+# WOOYONG JUNG
 
-*Updated 02/2026.* [Download PDF]({{ site.baseurl }}/assets/CV_WooyongJung_2602.pdf)
+*Curriculum vitae, updated 02/2026*
 
 Postdoctoral Scholar
 School of Data Science, University of Virginia
@@ -11,7 +8,7 @@ Email: wjung@virginia.edu | Homepage: https://yilmajung.github.io/
 
 ---
 
-## Education
+## EDUCATION
 
 **Doctor of Philosophy in Informatics**, The Pennsylvania State University — *Dec 2025*
 - Dissertation title: "Computational Social Science: Applications to Real-World Housing Issues and Human Behavior Studies Through Data-Driven Approaches"
@@ -25,7 +22,7 @@ Email: wjung@virginia.edu | Homepage: https://yilmajung.github.io/
 
 ---
 
-## Experience
+## EXPERIENCE
 
 ### Professional Experience
 
@@ -70,7 +67,7 @@ Email: wjung@virginia.edu | Homepage: https://yilmajung.github.io/
 
 ---
 
-## Publications
+## PUBLICATIONS
 
 1. **Wooyong Jung**, Sola Kim, Dongwook Kim, Maryam Tabar, and Dongwon Lee. "A New Lens on Homelessness: Daily Tent Monitoring with 311 Calls and Street Images." In *the 18th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS) 2025*.
 
@@ -94,7 +91,7 @@ Email: wjung@virginia.edu | Homepage: https://yilmajung.github.io/
 
 ---
 
-## Conferences and Workshops
+## CONFERENCES AND WORKSHOPS
 
 - **Presenter**, International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), Pittsburgh, PA, USA — *Oct 2025*
 - **Presenter**, IEEE International Conference on Big Data 2024, Washington, DC, USA — *Dec 2024*
@@ -103,7 +100,7 @@ Email: wjung@virginia.edu | Homepage: https://yilmajung.github.io/
 
 ---
 
-## Awards and Scholarship
+## AWARDS AND SCHOLARSHIP
 
 - **Winning team** (with William Paja, Matt Murtagh-White), OECD-UNHCR Datathon 2025: Harnessing Data for Forcibly Displaced and Stateless Children — *Jun 2025*
   - Project title: The UNified Model – Predicting Education Outcomes for Displaced Children in Data-Scarce Contexts
@@ -114,7 +111,7 @@ Email: wjung@virginia.edu | Homepage: https://yilmajung.github.io/
 
 ---
 
-## Skills
+## SKILLS
 
 - **Expertise**: Statistical Modeling, Machine Learning, Spatiotemporal Analysis, Bayesian Inference, LLMs, Synthetic Data Generation
 - **Tools**: Python, R, Stan, SQL
@@ -124,7 +121,7 @@ Email: wjung@virginia.edu | Homepage: https://yilmajung.github.io/
 
 ---
 
-## References
+## REFERENCES
 
 **Dongwon Lee**, Professor
 College of Information Sciences & Technology (IST), Pennsylvania State University
