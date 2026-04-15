@@ -53,25 +53,29 @@ featured_image: /images/front_page_img.png
   font-size: 0.92em;
 }
 .cv ul.details li { margin: 3px 0; }
-.cv .pub-list { padding-left: 22px; }
-.cv .pub-list li { margin: 10px 0; color: #333; font-size: 0.93em; }
+.cv .pub-list { padding-left: 22px; font-size: 0.93em; }
+.cv .pub-list li { margin: 10px 0; color: #333; font-size: inherit !important; line-height: 1.5; }
 .cv .pub-list li .me { font-weight: 600; color: #111; }
 .cv .pub-list li .venue { font-style: italic; color: #555; }
 .cv .header-block { margin-bottom: 8px; }
 .cv .header-block .line { color: #555; font-size: 0.95em; margin: 2px 0; }
-.cv .skills-table { width: 100%; border-collapse: collapse; margin-top: 10px; }
-.cv .skills-table td {
-  padding: 8px 12px 8px 0;
-  vertical-align: top;
+.cv .skills-list { list-style: none; padding: 0; margin: 10px 0 0 0; }
+.cv .skills-list li {
+  display: flex;
+  gap: 16px;
+  align-items: baseline;
+  margin: 8px 0;
   font-size: 0.93em;
-  border: none;
+  color: #333;
 }
-.cv .skills-table td.label {
-  width: 150px;
+.cv .skills-list li .label {
+  flex-shrink: 0;
+  width: 110px;
   color: #666;
   font-weight: 600;
   letter-spacing: 0.03em;
 }
+.cv .skills-list li .value { flex: 1; }
 .cv hr { border: none; border-top: 1px solid #eee; margin: 30px 0; }
 </style>
 
@@ -122,7 +126,7 @@ featured_image: /images/front_page_img.png
   <div class="date">Jan 2026 – Present</div>
 </div>
 <ul class="details">
-  <li>Leading a project on representation engineering for large language models — eliciting persona vectors and leveraging them to steer LLM responses based on vector orientation.</li>
+  <li>Have led a project on representation engineering for large language models — eliciting persona vectors and leveraging them to steer LLM responses based on vector orientation.</li>
 </ul>
 
 <div class="entry">
@@ -267,24 +271,12 @@ featured_image: /images/front_page_img.png
 
 <h2>Skills</h2>
 
-<table class="skills-table">
-  <tr>
-    <td class="label">Expertise</td>
-    <td>Statistical Modeling, Machine Learning, Spatiotemporal Analysis, Bayesian Inference, LLMs, Representation Engineering</td>
-  </tr>
-  <tr>
-    <td class="label">Languages</td>
-    <td>Python, R, Stan, SQL</td>
-  </tr>
-  <tr>
-    <td class="label">Python</td>
-    <td>PyTorch, GPyTorch, TensorFlow, SciPy, Scikit-learn, Pandas, GeoPandas, NumPy</td>
-  </tr>
-  <tr>
-    <td class="label">R</td>
-    <td>Tidyverse (dplyr, ggplot2, tidyr, stringr, tibble), RStan</td>
-  </tr>
-</table>
+<ul class="skills-list">
+  <li><span class="label">Expertise</span><span class="value">Statistical Modeling, Machine Learning, Spatiotemporal Analysis, Bayesian Inference, LLMs, Representation Engineering</span></li>
+  <li><span class="label">Languages</span><span class="value">Python, R, Stan, SQL</span></li>
+  <li><span class="label">Python</span><span class="value">PyTorch, GPyTorch, TensorFlow, SciPy, Scikit-learn, Pandas, GeoPandas, NumPy</span></li>
+  <li><span class="label">R</span><span class="value">Tidyverse (dplyr, ggplot2, tidyr, stringr, tibble), RStan</span></li>
+</ul>
 
 <h2>References</h2>
 
