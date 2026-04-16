@@ -5,6 +5,15 @@ description: Postdoctoral Scholar at UVA School of Data Science
 featured_image: /images/profile_img.png
 ---
 
+<style>
+.single p, .single ul, .single ol { font-size: 15px !important; }
+@media (min-width: 600px) { .single p, .single ul, .single ol { font-size: 16px !important; } }
+@media (min-width: 1000px) { .single p, .single ul, .single ol { font-size: 17px !important; } }
+.single h3 { font-size: 20px !important; }
+@media (min-width: 600px) { .single h3 { font-size: 22px !important; } }
+@media (min-width: 1000px) { .single h3 { font-size: 24px !important; } }
+</style>
+
 Welcome to my blog! I’m **Wooyong** (우용), pronounced “Woo-yong.” I'm currently a postdoctoral scholar at the [UVA School of Data Science](https://datascience.virginia.edu/), collaborating with [Dr. YY Ahn](https://yyahn.com/about/) (UVA), [Dr. Byungkyu Lee](https://www.byungkyulee.com/) (NYU), and [Dr. June Jeon](https://scholar.google.com/citations?hl=en&user=URGxapsAAAAJ&view_op=list_works&sortby=pubdate) (KAIST).
 
 ### Research Interests
