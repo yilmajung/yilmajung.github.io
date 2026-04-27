@@ -1,0 +1,47 @@
+---
+layout: default
+title: Algorithmic Art
+subtitle: Exploring the beauty of mathematics through code.
+description: Algorithmic mathematical art created with code — fractals, curves, tilings, and more.
+featured_image: /images/artwork/placeholder.svg
+---
+
+<section class="intro">
+
+	<div class="wrap">
+
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.subtitle }}</p>
+
+	</div>
+
+</section>
+
+<section class="portfolio">
+
+	<div class="wrap">
+
+		{% for artwork in site.artworks reversed %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ artwork.url | relative_url }}">
+
+				<div class="portfolio-item__image" style="background-image: url({{ artwork.featured_image | relative_url }});"></div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ artwork.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ artwork.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>
