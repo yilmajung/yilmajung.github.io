@@ -14,13 +14,13 @@ featured_image: /images/profile_img.png
 @media (min-width: 1000px) { .single h3 { font-size: 24px !important; } }
 .single ul, .single ol { list-style-position: outside !important; padding-left: 1.5em !important; }
 .single ul li, .single ol li { padding-left: 0.4em; }
+.profile-photo img { display:block; margin:0 auto; width:2in; height:2in; border-radius:50%; object-fit:cover; }
 </style>
 
 Welcome to my blog! I’m **Wooyong** (우용), pronounced “Woo-yong.” I’m currently a postdoctoral scholar at the [UVA School of Data Science](https://datascience.virginia.edu/), collaborating with [Dr. YY Ahn](https://yyahn.com/about/) (UVA), [Dr. Byungkyu Lee](https://www.byungkyulee.com/) (NYU), and [Dr. June Jeon](https://scholar.google.com/citations?hl=en&user=URGxapsAAAAJ&view_op=list_works&sortby=pubdate) (KAIST).
 
-<div markdown=”0” style=”text-align:center;”>
-  <img src=”/images/profile_pic_WJ.jpg” alt=”Wooyong Jung” style=”width:2in; height:2in; border-radius:50%; object-fit:cover;” />
-</div>
+{:.profile-photo}
+![Wooyong Jung](/images/profile_pic_WJ.jpg)
 
 ### Research Interests
 My research interests primarily lie in Computational Social Science, with a focus on harnessing the power of computational techniques, such as Machine Learning, Bayesian Inference, and Large Language Models (LLMs), to solve complex social challenges.
