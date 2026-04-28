@@ -160,11 +160,15 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 .profile-photo img {
   display: block !important;
   margin: 0 auto !important;
-  width: 2in !important;
-  height: 2in !important;
-  max-width: none !important;
+  width: 192px !important;
+  height: 192px !important;
+  min-width: 0 !important;
+  max-width: 192px !important;
+  min-height: 0 !important;
+  max-height: 192px !important;
   border-radius: 50% !important;
   object-fit: cover !important;
+  overflow: hidden !important;
 }
 
 
