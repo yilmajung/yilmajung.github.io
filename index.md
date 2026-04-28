@@ -14,7 +14,6 @@ featured_image: /images/profile_img.png
 @media (min-width: 1000px) { .single h3 { font-size: 24px !important; } }
 .single ul, .single ol { list-style-position: outside !important; padding-left: 1.5em !important; }
 .single ul li, .single ol li { padding-left: 0.4em; }
-.profile-photo img { display:block !important; margin:0 auto !important; width:2in !important; height:2in !important; max-width:none !important; border-radius:50% !important; object-fit:cover !important; }
 </style>
 
 Welcome to my blog! I’m **Wooyong** (우용), pronounced “Woo-yong.” I’m currently a postdoctoral scholar at the [UVA School of Data Science](https://datascience.virginia.edu/), collaborating with [Dr. YY Ahn](https://yyahn.com/about/) (UVA), [Dr. Byungkyu Lee](https://www.byungkyulee.com/) (NYU), and [Dr. June Jeon](https://scholar.google.com/citations?hl=en&user=URGxapsAAAAJ&view_op=list_works&sortby=pubdate) (KAIST).
