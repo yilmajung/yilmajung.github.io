@@ -157,7 +157,7 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
 // - - - - - - - - - - Custom styles
 
-.profile-photo img {
+img[alt="Wooyong Jung"] {
   display: block !important;
   margin: 0 auto !important;
   width: 192px !important;
