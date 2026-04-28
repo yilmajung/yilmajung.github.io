@@ -2,7 +2,7 @@
 layout: page
 title: Hello,
 description: Postdoctoral Scholar at UVA School of Data Science
-featured_image: /images/profile_img.png
+featured_image: /images/front_page_img.png
 ---
 
 <style>
