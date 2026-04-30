@@ -14,8 +14,6 @@ menu_settings:
       url: '/'
     - title: 'Research'
       url: '/projects'
-    - title: 'Algorithmic Art'
-      url: '/artworks'
     - title: 'CV'
       url: '/cv'
     - title: 'Contact'
