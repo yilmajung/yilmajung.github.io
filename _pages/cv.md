@@ -202,7 +202,7 @@ featured_image: /images/front_page_img.png
 <h2>Publications</h2>
 
 <ol class="pub-list">
-  <li><span class="me">Wooyong Jung</span>, Sola Kim, Dongwook Kim, Andre Sihombing, Maryam Tabar, and Dongwon Lee. "From Crowdsourced Data to Policy Design: Monitoring and Forecasting Homeless Tents." <span class="venue">EPJ Data Science</span>. 15(32).</li>
+  <li><span class="me">Wooyong Jung</span>, Sola Kim, Dongwook Kim, Andre Sihombing, Maryam Tabar, and Dongwon Lee. "From Crowdsourced Data to Policy Design: Monitoring and Forecasting Homeless Tents." <span class="venue">EPJ Data Science</span>. 15(32), 2026.</li>
   <li><span class="me">Wooyong Jung</span>, Sola Kim, Dongwook Kim, Maryam Tabar, and Dongwon Lee. "A New Lens on Homelessness: Daily Tent Monitoring with 311 Calls and Street Images." <span class="venue">18th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS)</span>, 2025.</li>
   <li><span class="me">Wooyong Jung</span>, Maryam Tabar, and Dongwon Lee. "Hotspots of Eviction: Guiding Dual-Track Policy Intervention with Spatial Analysis." <span class="venue">2024 IEEE International Conference on Big Data (BigData)</span>.</li>
   <li><span class="me">Wooyong Jung</span>, Nishant Asati, Lucy Phuong Doan, Thai Le, Aiping Xiong, and Dongwon Lee. "The Strange Case of Jekyll and Hyde: Analysis of r/ToastMe and r/RoastMe Users on Reddit." <span class="venue">Proceedings of the 18th International AAAI Conference on Web and Social Media (ICWSM)</span>, 2024.</li>
