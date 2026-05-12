@@ -31,7 +31,7 @@ My research interests primarily lie in Computational Social Science, with a focu
 - Dec 2025: Completed a Ph.D. in Informatics at [Penn State College of IST](https://ist.psu.edu/) under [Dr. Dongwon Lee](https://pike.psu.edu/dongwon/)'s guidance
 - Oct 2025: Presented a study titled “A New Lens on Homelessness: Daily Tent Monitoring with 311 Calls and Street Images” at [SBP-BRiMS 2025](https://sbp-brims.org/2025/) at Carnegie Mellon University
 
-### A Little Bit More About Myself
+### A Little Bit More About My Academic Journey
 My academic journey has taken a winding and fascinating path, and I want to share some pieces of it with you.
 
 I began my academic career with a social science focus, obtaining a bachelor's degree in [Development Studies at UC Berkeley](https://politicaleconomy.berkeley.edu/undergraduate-programs/the-political-economy-major/development-studies/). I found myself drawn to the complex challenges and multifaceted solutions related to global development and social transformation. This interest only grew during my subsequent Master's studies in Public Policy at [KDI School](https://www.kdischool.ac.kr/) and Applied Quantitative Research at [NYU](https://www.nyu.edu/), where I dove deep into policy intricacies and the statistical methods required to understand them.
