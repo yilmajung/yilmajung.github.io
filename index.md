@@ -26,7 +26,7 @@ My research interests primarily lie in Computational Social Science, with a focu
 
 ### News
 - Apr 2026: Presented a research poster at the [2026 UVA Postdoctoral Research Symposium](https://postdoc.virginia.edu/2026-postdoctoral-research-symposium) showcase
-- Feb 2026: Our homelessness study paper was accepted for publication in [EPJ Data Science](https://link.springer.com/journal/13688)
+- Feb 2026: [Our homelessness study paper](https://link.springer.com/article/10.1140/epjds/s13688-026-00631-8) was accepted for publication in [EPJ Data Science](https://link.springer.com/journal/13688)
 - Jan 2026: Joined [Y Lab](https://yyahn.com/ylab/) as a postdoctoral scholar and began a new project, **Belief & LLMs**
 - Dec 2025: Completed a Ph.D. in Informatics at [Penn State College of IST](https://ist.psu.edu/) under [Dr. Dongwon Lee](https://pike.psu.edu/dongwon/)'s guidance
 - Oct 2025: Presented a study titled “A New Lens on Homelessness: Daily Tent Monitoring with 311 Calls and Street Images” at [SBP-BRiMS 2025](https://sbp-brims.org/2025/) at Carnegie Mellon University
